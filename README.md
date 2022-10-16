@@ -6,9 +6,9 @@ This is an experimental bot for auto trading the binance.com exchange. [@yasinku
 
 ## Configuration
 
-1. [Signup](https://www.binance.com/?ref=10701111) for Binance
+1. [Signup](https://www.binance.com/?ref=CRQ7Y5TF) for Binance
 2. Enable Two-factor Authentication
-3. Go API Center, [Create New](https://www.binance.com/en/my/settings/api-management?ref=10701111) Api Key
+3. Go API Center, [Create New](https://www.binance.com/en/my/settings/api-management?ref=CRQ7Y5TF) Api Key
 
         [✓] Read Info [✓] Enable Trading [X] Enable Withdrawals
 
@@ -28,7 +28,18 @@ This is an experimental bot for auto trading the binance.com exchange. [@yasinku
 
 ## Support
 
-[https://www.binance.com/?ref=10701111](https://www.binance.com/?ref=10701111)
+[https://www.binance.com/?ref=CRQ7Y5TF](https://www.binance.com/?ref=CRQ7Y5TF)
+
+Enjoy - Donate - Buy me a beer! =]
+Thank you for using Binance to Google Sheets add-on!
+I really hope you enjoyed and loved it as much as I love to use it everyday.
+
+If your love is strong enough, feel free to share it with me! =D
+I will much appreciate any contribution and support to keep working on it.
+I have several ideas for new features, so much more could come!
+
+You can send any token through the Binance Smart Chain (BSC/BEP20) to the address:
+0x51CeC0bB36BacC9765e1A5fa67b84810DeF607Ae
 
 ## Requirements
 
