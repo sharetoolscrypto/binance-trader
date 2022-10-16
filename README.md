@@ -30,8 +30,6 @@ This is an experimental bot for auto trading the binance.com exchange. [@yasinku
 
 [https://www.binance.com/?ref=CRQ7Y5TF](https://www.binance.com/?ref=CRQ7Y5TF)
 
-Enjoy - Donate - Buy me a beer! =]
-Thank you for using Binance to Google Sheets add-on!
 I really hope you enjoyed and loved it as much as I love to use it everyday.
 
 If your love is strong enough, feel free to share it with me! =D
